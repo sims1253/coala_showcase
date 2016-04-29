@@ -1,0 +1,10 @@
+[Default]
+bears = CPDBear, SpaceConsistencyBear
+files = one.java,two.java
+language = java
+
+[python]
+bears=PEP8Bear
+files=py.py
+#deault_actions =
+#    PEP8Bear: ApplyPatchAction
